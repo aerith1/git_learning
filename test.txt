@@ -1,5 +1,9 @@
 v3.0
 learning git LOL:)
+<<<<<<< HEAD
+NO
+=======
 lets go~~~~~
 Yes or Not
 
+>>>>>>> origin/feature/git_learning
